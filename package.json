@@ -1,0 +1,20 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "A project for tesing project creation and structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "p-stevenson",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-config-semistandard": "^17.0.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
